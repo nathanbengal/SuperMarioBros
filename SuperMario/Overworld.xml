@@ -1,0 +1,3235 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestLevel>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Mario"/>
+    <Location xPos ="96" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Cloud"/>
+    <Location xPos ="100" yPos ="150"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Cloud"/>
+    <Location xPos ="640" yPos ="100"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Cloud"/>
+    <Location xPos ="1260" yPos ="200"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Cloud"/>
+    <Location xPos ="1820" yPos ="75"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Cloud"/>
+    <Location xPos ="3200" yPos ="220"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Cloud"/>
+    <Location xPos ="4500" yPos ="50"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Cloud"/>
+    <Location xPos ="6640" yPos ="100"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Cloud"/>
+    <Location xPos ="7260" yPos ="200"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Bush"/>
+    <Location xPos ="220" yPos ="390"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Bush"/>
+    <Location xPos ="520" yPos ="390"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Hill"/>
+    <Location xPos ="100" yPos ="365"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Bush"/>
+    <Location xPos ="1500" yPos ="388"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Hill"/>
+    <Location xPos ="3000" yPos ="360"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Bush"/>
+    <Location xPos ="3600" yPos ="390"/>
+  </item>
+  <item>
+    <Type type ="Background"/>
+    <Object subObject ="Hill"/>
+    <Location xPos ="5200" yPos ="358"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="0" yPos ="320"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="0" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="0" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="0" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="0" yPos ="448"/>
+  </item>
+  
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="32" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="32" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="64" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="64" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="96" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="96" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="128" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="128" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="160" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="160" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="192" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="192" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="224" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="224" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="256" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="256" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="288" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="288" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="320" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="320" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="352" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="352" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="384" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="384" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="416" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="416" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="448" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="448" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="480" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="480" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="512" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="512" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="544" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="544" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="576" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="576" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="608" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="608" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="640" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="640" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="672" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="672" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="704" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="704" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="736" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="736" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="768" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="768" yPos ="448"/>
+  </item>
+  
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="WarpPipe"/>
+    <Location xPos ="704" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CoinBrick"/>
+    <Location xPos ="0" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="StarBrick"/>
+    <Location xPos ="1216" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="ItemBlock"/>
+    <Location xPos ="200" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="ItemBlock"/>
+    <Location xPos ="366" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="ItemBlock"/>
+    <Location xPos ="450" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="ItemBlock"/>
+    <Location xPos ="534" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="Pipe"/>
+    <Location xPos ="896" yPos ="352"/>
+  </item>
+  
+  END TEST LEVEL HERE BEGIN REGULAR LEVEL
+
+  FLOOR BEGINS HERE
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="800" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="800" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="832" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="832" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="864" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="864" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="896" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="896" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="928" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="928" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="960" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="960" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="992" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="992" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1024" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1024" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1056" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1056" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1088" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1088" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1120" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1120" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CoinBlock"/>
+    <Location xPos ="1120" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1152" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1152" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1184" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1184" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1216" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1216" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1248" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1248" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="1248" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1280" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1280" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Koopa"/>
+    <Location xPos ="1280" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="ItemBlock"/>
+    <Location xPos ="1280" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1312" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1312" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="1312" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="ItemBlock"/>
+    <Location xPos ="1312" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1344" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1344" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CoinBlock"/>
+    <Location xPos ="1344" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1376" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1376" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="1376" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1408" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1408" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1440" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1440" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1472" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1472" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1504" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1504" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1536" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1536" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="Pipe"/>
+    <Location xPos ="1504" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1568" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1568" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1600" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1600" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1632" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1632" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1664" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1664" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1696" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1696" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1728" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1728" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1760" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1760" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1792" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1792" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1824" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1824" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1856" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1856" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="Pipe"/>
+    <Location xPos ="1824" yPos ="320"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="HalfPipe"/>
+    <Location xPos ="1824" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1888" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1888" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Goomba"/>
+    <Location xPos ="1888" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1920" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1920" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1952" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1952" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1984" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="1984" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2016" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2016" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2048" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2048" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2080" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2080" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2112" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2112" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="HalfPipe"/>
+    <Location xPos ="2080" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="HalfPipe"/>
+    <Location xPos ="2080" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="Pipe"/>
+    <Location xPos ="2080" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2144" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2144" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2176" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2176" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2208" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2208" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2240" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2240" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2272" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2272" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2304" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2304" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2336" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2336" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Goomba"/>
+    <Location xPos ="2336" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2368" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2368" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Goomba"/>
+    <Location xPos ="2368" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2400" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2400" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2432" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2432" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2464" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2464" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="HalfPipe"/>
+    <Location xPos ="2432" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="HalfPipe"/>
+    <Location xPos ="2432" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="Pipe"/>
+    <Location xPos ="2432" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2496" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2496" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2528" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2528" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2560" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2560" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2592" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2592" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2624" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2624" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2656" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2656" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="HiddenBlock"/>
+    <Location xPos ="2656" yPos ="256"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2688" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2688" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2720" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2720" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2752" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2752" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2784" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2784" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2880" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2880" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2912" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2912" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2944" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2944" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2976" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="2976" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3008" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3008" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3040" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3040" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3072" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3072" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3072" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3104" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3104" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="ItemBlock"/>
+    <Location xPos ="3104" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3136" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3136" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3136" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Goomba"/>
+    <Location xPos ="3136" yPos ="224"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3168" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3168" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3168" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3200" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3200" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3200" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3232" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3232" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3232" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3264" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3264" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3264" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3296" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3296" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3296" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3328" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3328" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3328" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3360" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3392" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3456" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3456" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3488" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3488" yPos ="448"/>
+  </item>
+
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3520" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3520" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3520" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3552" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3552" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3552" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3584" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3584" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3584" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3616" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3616" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CoinBlock"/>
+    <Location xPos ="3616" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CoinBrick"/>
+    <Location xPos ="3616" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3648" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3648" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Goomba"/>
+    <Location xPos ="3648" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3680" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3680" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Goomba"/>
+    <Location xPos ="3680" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3712" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3712" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3744" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3744" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3776" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3776" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3808" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3808" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="3808" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3840" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3840" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="StarBrick"/>
+    <Location xPos ="3840" yPos ="288"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3872" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3872" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3904" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3904" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3936" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3936" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3968" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="3968" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Koopa"/>
+    <Location xPos ="3968" yPos ="370"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4000" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4000" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CoinBlock"/>
+    <Location xPos ="4000" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4032" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4032" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4064" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4064" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4096" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4096" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CoinBlock"/>
+    <Location xPos ="4096" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="ItemBlock"/>
+    <Location xPos ="4096" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4128" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4128" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4160" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4160" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4192" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4192" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CoinBlock"/>
+    <Location xPos ="4192" yPos ="288"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4224" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4224" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4256" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4256" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4288" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4288" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4320" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4320" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4352" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4352" yPos ="448"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4384" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4384" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="4384" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4416" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4416" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4448" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4448" yPos ="448"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4480" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4480" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="4480" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4512" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4512" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="4512" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4544" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4544" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="4544" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4576" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4576" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Goomba"/>
+    <Location xPos ="4576" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4608" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4608" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Goomba"/>
+    <Location xPos ="4608" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4640" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4640" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Goomba"/>
+    <Location xPos ="4640" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4672" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4672" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Goomba"/>
+    <Location xPos ="4672" yPos ="384"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4704" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4704" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="4704" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4736" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4736" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="4736" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CoinBlock"/>
+    <Location xPos ="4736" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4768" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4768" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="4768" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CoinBlock"/>
+    <Location xPos ="4768" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4800" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4800" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="4800" yPos ="160"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4832" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4832" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4864" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4864" yPos ="448"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4896" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4896" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="4896" yPos ="384"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4928" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4928" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="4928" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="4928" yPos ="352"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4960" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4960" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="4960" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="4960" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="4960" yPos ="320"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4992" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="4992" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="4992" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="4992" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="4992" yPos ="320"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="4992" yPos ="288"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5024" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5024" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5056" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5056" yPos ="448"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5088" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5088" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5088" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5088" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5088" yPos ="320"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5088" yPos ="288"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5120" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5120" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5120" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5120" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5120" yPos ="320"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5152" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5152" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5152" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5152" yPos ="352"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5184" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5184" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5184" yPos ="384"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5216" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5216" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5248" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5248" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5280" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5280" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5312" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5312" yPos ="448"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5344" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5344" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5344" yPos ="384"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5376" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5376" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5376" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5376" yPos ="352"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5408" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5408" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5408" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5408" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5408" yPos ="320"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5440" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5440" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5440" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5440" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5440" yPos ="320"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5440" yPos ="288"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5472" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5472" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5472" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5472" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5472" yPos ="320"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5472" yPos ="288"/>
+  </item>
+
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5568" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5568" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5568" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5568" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5568" yPos ="320"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5568" yPos ="288"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5600" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5600" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5600" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5600" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5600" yPos ="320"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5632" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5632" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5632" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5632" yPos ="352"/>
+  </item>
+
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5664" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5664" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="5664" yPos ="384"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5696" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5696" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5728" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5728" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5760" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5760" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5792" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5792" yPos ="448"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5824" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5824" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5856" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5856" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="Pipe"/>
+    <Location xPos ="5824" yPos ="352"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5888" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5888" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5920" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5920" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5952" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5952" yPos ="448"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5984" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="5984" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="5984" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6016" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6016" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="6016" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6048" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6048" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CoinBlock"/>
+    <Location xPos ="6048" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6080" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6080" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="BrickBlock"/>
+    <Location xPos ="6080" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6112" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6112" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Goomba"/>
+    <Location xPos ="6112" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6144" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6144" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Dynamic"/>
+    <Object subObject ="Goomba"/>
+    <Location xPos ="6144" yPos ="384"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6176" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6176" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6208" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6208" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6240" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6240" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6272" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6272" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6304" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6304" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6336" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6336" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6368" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6368" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="Pipe"/>
+    <Location xPos ="6336" yPos ="352"/>
+  </item>
+
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6400" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6400" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6400" yPos ="384"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6432" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6432" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6432" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6432" yPos ="352"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6464" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6464" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6464" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6464" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6464" yPos ="320"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6496" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6496" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6496" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6496" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6496" yPos ="320"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6496" yPos ="288"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6528" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6528" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6528" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6528" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6528" yPos ="320"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6528" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6528" yPos ="256"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6560" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6560" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6560" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6560" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6560" yPos ="320"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6560" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6560" yPos ="256"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6560" yPos ="224"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6592" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6592" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6592" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6592" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6592" yPos ="320"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6592" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6592" yPos ="256"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6592" yPos ="224"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6592" yPos ="192"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6624" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6624" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6624" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6624" yPos ="352"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6624" yPos ="320"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6624" yPos ="288"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6624" yPos ="256"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6624" yPos ="224"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6624" yPos ="192"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="SolidBlock"/>
+    <Location xPos ="6624" yPos ="160"/>
+  </item>
+
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6656" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6656" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6688" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6688" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6720" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6720" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6752" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6752" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6784" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6784" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6816" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6816" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6848" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6848" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6880" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6880" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6912" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6912" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="FlagPole"/>
+    <Location xPos ="6920" yPos ="82"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="Flag"/>
+    <Location xPos ="6896" yPos ="97"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6912" yPos ="384"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6944" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6944" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6976" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="6976" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7008" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7008" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="Castle"/>
+    <Location xPos ="7040" yPos ="256"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7040" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7040" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7072" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7072" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7104" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7104" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7136" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7136" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7168" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7168" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7200" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7200" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7232" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7232" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7264" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7264" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7296" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7296" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7328" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7328" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7360" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7360" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7392" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7392" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7424" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7424" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7456" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7456" yPos ="416"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7488" yPos ="448"/>
+  </item>
+  <item>
+    <Type type ="Static"/>
+    <Object subObject ="CrackedBlock"/>
+    <Location xPos ="7488" yPos ="416"/>
+  </item>
+
+
+</TestLevel>

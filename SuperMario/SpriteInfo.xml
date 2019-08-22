@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SpriteInfo>
+
+  <SmallMarioLeftIdle NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="182" Y ="0" Width ="13" Height ="16"/>
+  </SmallMarioLeftIdle>
+  
+  <SmallMarioLeftJump NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="30" Y ="0" Width ="17" Height ="16"/>
+  </SmallMarioLeftJump>
+  
+  <SmallMarioLeftMoving NumberOfFrames ="4" Texture ="Mario">
+    <SourceRectangle X ="182" Y ="0" Width ="13" Height ="16"/>
+    <SourceRectangle X ="151" Y ="0" Width ="14" Height ="15"/>
+    <SourceRectangle X ="122" Y ="0" Width ="12" Height ="16"/>
+    <SourceRectangle X ="90" Y ="0" Width ="16" Height ="16"/>
+  </SmallMarioLeftMoving>
+  
+  <SmallMarioRightIdle NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="212" Y ="0" Width ="13" Height ="16"/>
+  </SmallMarioRightIdle>
+  
+  <SmallMarioRightJump NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="358" Y ="0" Width ="17" Height ="16"/>
+  </SmallMarioRightJump>
+  
+  <SmallMarioRightMoving NumberOfFrames ="4" Texture ="Mario">
+    <SourceRectangle X ="212" Y ="0" Width ="13" Height ="16"/>
+    <SourceRectangle X ="242" Y ="0" Width ="14" Height ="15"/>
+    <SourceRectangle X ="273" Y ="0" Width ="12" Height ="16"/>
+    <SourceRectangle X ="301" Y ="0" Width ="16" Height ="16"/>
+  </SmallMarioRightMoving>
+  
+  <BigMarioLeftIdle NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="181" Y ="53" Width ="16" Height ="32"/>
+  </BigMarioLeftIdle>
+  
+  <BigMarioLeftJump NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="31" Y ="53" Width ="16" Height ="32"/>
+  </BigMarioLeftJump>
+  
+  <BigMarioLeftCrouch NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="0" Y ="58" Width ="16" Height ="22"/>
+  </BigMarioLeftCrouch>
+  
+  <BigMarioLeftMoving NumberOfFrames ="4" Texture ="Mario">
+    <SourceRectangle X ="181" Y ="53" Width ="16" Height ="32"/>
+    <SourceRectangle X ="151" Y ="53" Width ="16" Height ="32"/>
+    <SourceRectangle X ="122" Y ="53" Width ="14" Height ="31"/>
+    <SourceRectangle X ="91" Y ="54" Width ="16" Height ="30"/>
+  </BigMarioLeftMoving>
+  
+  <BigMarioRightIdle NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="210" Y ="53" Width ="16" Height ="32"/>
+  </BigMarioRightIdle>
+  
+  <BigMarioRightJump NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="360" Y ="53" Width ="16" Height ="32"/>
+  </BigMarioRightJump>
+  
+  <BigMarioRightCrouch NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="390" Y ="58" Width ="16" Height ="22"/>
+  </BigMarioRightCrouch>
+  
+  <BigMarioRightMoving NumberOfFrames ="4" Texture ="Mario">
+    <SourceRectangle X ="210" Y ="53" Width ="16" Height ="32"/>
+    <SourceRectangle X ="240" Y ="53" Width ="16" Height ="32"/>
+    <SourceRectangle X ="270" Y ="53" Width ="14" Height ="31"/>
+    <SourceRectangle X ="300" Y ="54" Width ="16" Height ="30"/>
+  </BigMarioRightMoving>
+
+  <SmallMarioLeftDescendFlag NumberOfFrames ="2" Texture ="Mario">
+    <SourceRectangle X ="331" Y ="30" Width ="14" Height ="15"/>
+    <SourceRectangle X ="361" Y ="30" Width ="14" Height ="16"/>
+  </SmallMarioLeftDescendFlag>
+
+  <SmallMarioRightDescendFlag NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="61" Y ="30" Width ="13" Height ="15"/>
+    <!--<SourceRectangle X ="30" Y ="30" Width ="14" Height ="16"/>-->
+  </SmallMarioRightDescendFlag>
+
+  <BigMarioLeftDescendFlag NumberOfFrames ="2" Texture ="Mario">
+    <SourceRectangle X ="363" Y ="89" Width ="14" Height ="27"/>
+    <SourceRectangle X ="390" Y ="88" Width ="14" Height ="30"/>
+  </BigMarioLeftDescendFlag>
+
+  <BigMarioRightDescendFlag NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="28" Y ="89" Width ="14" Height ="27"/>
+  </BigMarioRightDescendFlag>
+
+  <FireMarioLeftDescendFlag NumberOfFrames ="2" Texture ="Mario">
+    <SourceRectangle X ="363" Y ="159" Width ="14" Height ="27"/>
+    <SourceRectangle X ="390" Y ="159" Width ="14" Height ="30"/>
+  </FireMarioLeftDescendFlag>
+
+  <FireMarioRightDescendFlag NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="28" Y ="159" Width ="14" Height ="27"/>
+  </FireMarioRightDescendFlag>
+  
+  <FireMarioLeftIdle NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="181" Y ="123" Width ="14" Height ="27"/>
+  </FireMarioLeftIdle>
+  
+  <FireMarioLeftJump NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="28" Y ="123" Width ="16" Height ="32"/>
+  </FireMarioLeftJump>
+  
+  <FireMarioLeftCrouch NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="0" Y ="128" Width ="16" Height ="22"/>
+  </FireMarioLeftCrouch>
+  
+  <FireMarioLeftMoving NumberOfFrames ="4" Texture ="Mario">
+    <SourceRectangle X ="181" Y ="123" Width ="16" Height ="32"/>
+    <SourceRectangle X ="153" Y ="123" Width ="16" Height ="32"/>
+    <SourceRectangle X ="129" Y ="123" Width ="14" Height ="31"/>
+    <SourceRectangle X ="103" Y ="124" Width ="16" Height ="30"/>
+  </FireMarioLeftMoving>
+
+  <FireMarioRightIdle NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="210" Y ="123" Width ="16" Height ="32"/>
+  </FireMarioRightIdle>
+  
+  <FireMarioRightJump NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="363" Y ="123" Width ="16" Height ="32"/>
+  </FireMarioRightJump>
+  
+  <FireMarioRightCrouch NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="390" Y ="128" Width ="16" Height ="22"/>
+  </FireMarioRightCrouch>
+
+  <FireMarioLeftShootFire NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="77" Y ="123" Width ="15" Height ="30"/>
+  </FireMarioLeftShootFire>
+
+  <FireMarioRightShootFire NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="312" Y ="123" Width ="15" Height ="30"/>
+  </FireMarioRightShootFire>
+  
+  <FireMarioRightMoving NumberOfFrames ="4" Texture ="Mario">
+    <SourceRectangle X ="210" Y ="123" Width ="16" Height ="32"/>
+    <SourceRectangle X ="238" Y ="123" Width ="16" Height ="32"/>
+    <SourceRectangle X ="262" Y ="123" Width ="14" Height ="31"/>
+    <SourceRectangle X ="288" Y ="124" Width ="16" Height ="30"/>
+  </FireMarioRightMoving>
+
+  <DeadMario NumberOfFrames ="1" Texture ="Mario">
+    <SourceRectangle X ="0" Y ="17" Width ="15" Height ="14"/>
+  </DeadMario>
+
+  <Coin NumberOfFrames ="4" Texture ="Items">
+    <SourceRectangle X ="128" Y ="95" Width ="8" Height ="14"/>
+    <SourceRectangle X ="160" Y ="95" Width ="4" Height ="14"/>
+    <SourceRectangle X ="191" Y ="95" Width ="1" Height ="14"/>
+    <SourceRectangle X ="220" Y ="95" Width ="4" Height ="14"/>
+  </Coin>
+
+  <ExtraLifeMushroom NumberOfFrames ="1" Texture ="Items">
+    <SourceRectangle X ="214" Y ="34" Width ="16" Height ="16"/>
+  </ExtraLifeMushroom>
+
+  <Mushroom NumberOfFrames ="1" Texture ="Items">
+    <SourceRectangle X ="183" Y ="34" Width ="17" Height ="16"/>
+  </Mushroom>
+  
+  <FireFlower NumberOfFrames ="8" Texture ="Items">
+    <SourceRectangle X ="4" Y ="64" Width ="16" Height ="16"/>
+    <SourceRectangle X ="34" Y ="64" Width ="16" Height ="16"/>
+    <SourceRectangle X ="64" Y ="64" Width ="16" Height ="16"/>
+    <SourceRectangle X ="94" Y ="64" Width ="16" Height ="16"/>
+    <SourceRectangle X ="124" Y ="64" Width ="16" Height ="16"/>
+    <SourceRectangle X ="154" Y ="64" Width ="16" Height ="16"/>
+    <SourceRectangle X ="184" Y ="64" Width ="16" Height ="16"/>
+    <SourceRectangle X ="214" Y ="64" Width ="16" Height ="16"/>
+  </FireFlower>
+  
+  <Star NumberOfFrames ="4" Texture ="Items">
+    <SourceRectangle X ="5" Y ="94" Width ="14" Height ="16"/>
+    <SourceRectangle X ="35" Y ="94" Width ="14" Height ="16"/>
+    <SourceRectangle X ="65" Y ="94" Width ="14" Height ="16"/>
+    <SourceRectangle X ="95" Y ="94" Width ="14" Height ="16"/>
+  </Star>
+  
+  <Goomba NumberOfFrames ="2" Texture ="Enemies">
+    <SourceRectangle X ="0" Y ="4" Width ="16" Height ="16"/>
+    <SourceRectangle X ="30" Y ="4" Width ="16" Height ="16"/>
+  </Goomba>
+
+  <BigGoomba NumberOfFrames ="2" Texture ="EnemiesBig">
+    <SourceRectangle X ="323" Y ="213" Width ="32" Height ="32"/>
+    <SourceRectangle X ="368" Y ="214" Width ="32" Height ="32"/>
+  </BigGoomba>
+
+  <StompedGoomba NumberOfFrames ="1" Texture ="Enemies">
+    <SourceRectangle X ="60" Y ="8" Width ="16" Height ="8"/>
+  </StompedGoomba>
+
+  <BlueGoomba NumberOfFrames ="2" Texture ="Enemies">
+    <SourceRectangle X ="0" Y ="34" Width ="16" Height ="16"/>
+    <SourceRectangle X ="30" Y ="34" Width ="16" Height ="16"/>
+  </BlueGoomba>
+
+  <StompedBlueGoomba NumberOfFrames ="1" Texture ="Enemies">
+    <SourceRectangle X ="60" Y ="38" Width ="16" Height ="8"/>
+  </StompedBlueGoomba>
+  
+  <Koopa NumberOfFrames ="2" Texture ="Enemies">
+    <SourceRectangle X ="180" Y ="0" Width ="16" Height ="23"/>
+    <SourceRectangle X ="150" Y ="0" Width ="16" Height ="23"/>
+  </Koopa>
+
+  <KoopaMovingLeft NumberOfFrames ="2" Texture ="Enemies">
+    <SourceRectangle X ="180" Y ="0" Width ="16" Height ="23"/>
+    <SourceRectangle X ="150" Y ="0" Width ="16" Height ="23"/>
+  </KoopaMovingLeft>
+
+  <KoopaMovingRight NumberOfFrames ="2" Texture ="Enemies">
+    <SourceRectangle X ="210" Y ="0" Width ="16" Height ="23"/>
+    <SourceRectangle X ="240" Y ="0" Width ="16" Height ="23"/>
+  </KoopaMovingRight>
+  
+  <StompedKoopa NumberOfFrames ="1" Texture ="Enemies">
+    <SourceRectangle X ="360" Y ="5" Width ="16" Height ="14"/>
+  </StompedKoopa>
+
+  <BigKoopaMovingLeft NumberOfFrames ="2" Texture ="EnemiesBig">
+    <SourceRectangle X ="142" Y ="206" Width ="32" Height ="46"/>
+    <SourceRectangle X ="94" Y ="205" Width ="32" Height ="46"/>
+  </BigKoopaMovingLeft>
+
+  <BigKoopaMovingRight NumberOfFrames ="2" Texture ="EnemiesBig">
+    <SourceRectangle X ="190" Y ="206" Width ="32" Height ="46"/>
+    <SourceRectangle X ="231" Y ="205" Width ="32" Height ="46"/>
+  </BigKoopaMovingRight>
+
+  <RedKoopaMovingLeft NumberOfFrames ="2" Texture ="Enemies">
+    <SourceRectangle X ="180" Y ="30" Width ="16" Height ="23"/>
+    <SourceRectangle X ="150" Y ="30" Width ="16" Height ="23"/>
+  </RedKoopaMovingLeft>
+
+  <RedKoopaMovingRight NumberOfFrames ="2" Texture ="Enemies">
+    <SourceRectangle X ="210" Y ="30" Width ="16" Height ="23"/>
+    <SourceRectangle X ="240" Y ="30" Width ="16" Height ="23"/>
+  </RedKoopaMovingRight>
+
+  <RedStompedKoopa NumberOfFrames ="1" Texture ="Enemies">
+    <SourceRectangle X ="360" Y ="35" Width ="16" Height ="14"/>
+  </RedStompedKoopa>
+
+  <BrickBlock NumberOfFrames ="1" Texture ="Blocks">
+    <SourceRectangle X ="272" Y ="112" Width ="16" Height ="16"/>
+  </BrickBlock>
+
+  <EmptyBlock NumberOfFrames ="1" Texture ="Blocks">
+    <SourceRectangle X ="35" Y ="220" Width ="16" Height ="16"/>
+  </EmptyBlock>
+
+  <QuestionBlock NumberOfFrames ="3" Texture ="Blocks">
+    <SourceRectangle X ="80" Y ="112" Width ="16" Height ="16"/>
+    <SourceRectangle X ="96" Y ="112" Width ="16" Height ="16"/>
+    <SourceRectangle X ="112" Y ="112" Width ="16" Height ="16"/>
+  </QuestionBlock>
+
+  <UsedBlock NumberOfFrames ="1" Texture ="Blocks">
+    <SourceRectangle X ="128" Y ="112" Width ="16" Height ="16"/>
+  </UsedBlock>
+
+  <Cloud NumberOfFrames ="1" Texture ="Backround">
+    <SourceRectangle X ="211" Y ="69" Width ="32" Height ="24"/>
+  </Cloud>
+
+  <Bush NumberOfFrames ="1" Texture ="Backround">
+    <SourceRectangle X ="288" Y ="24" Width ="32" Height ="16"/>
+  </Bush>
+
+  <Hill NumberOfFrames ="1" Texture ="Backround">
+    <SourceRectangle X ="86" Y ="5" Width ="80" Height ="35"/>
+  </Hill>
+
+  <Pipe NumberOfFrames ="1" Texture ="Backround">
+    <SourceRectangle X ="309" Y ="417" Width ="32" Height ="32"/>
+  </Pipe>
+
+  <HalfPipe NumberOfFrames ="1" Texture ="Backround">
+    <SourceRectangle X ="309" Y ="433" Width ="32" Height ="16"/>
+  </HalfPipe>
+
+  <CrackedBlock NumberOfFrames ="1" Texture ="Blocks2">
+    <SourceRectangle X ="16" Y ="32" Width ="16" Height ="16"/>
+  </CrackedBlock>
+
+  <SolidBlock NumberOfFrames ="1" Texture ="Blocks2">
+    <SourceRectangle X ="0" Y ="32" Width ="16" Height ="16"/>
+  </SolidBlock>
+
+  <FireBall NumberOfFrames ="1" Texture ="Enemies">
+    <SourceRectangle X ="364" Y ="188" Width ="8" Height ="8"/>
+  </FireBall>
+
+  <Zero NumberOfFrames ="1" Texture ="Font2">
+    <SourceRectangle X ="33" Y="32" Width ="8" Height="7"/>
+  </Zero>
+
+  <Castle NumberOfFrames ="1" Texture ="FlagCastle">
+    <SourceRectangle X ="248" Y="863" Width ="80" Height="80"/>
+  </Castle>
+
+  <FlagPole NumberOfFrames ="1" Texture ="FlagCastle">
+    <!--<SourceRectangle X ="249" Y="594" Width ="24" Height="168"/>
+    <SourceRectangle X ="216" Y="594" Width ="24" Height="168"/>
+    <SourceRectangle X ="182" Y="594" Width ="24" Height="168"/>
+    <SourceRectangle X ="149" Y="594" Width ="24" Height="168"/>
+    <SourceRectangle X ="117" Y="594" Width ="23" Height="168"/>-->
+    <SourceRectangle X ="261" Y="594" Width ="8" Height="151"/>
+  </FlagPole>
+
+  <Flag NumberOfFrames ="1" Texture ="FlagCastle">
+    <!--<SourceRectangle X ="249" Y="594" Width ="24" Height="168"/>
+    <SourceRectangle X ="216" Y="594" Width ="24" Height="168"/>
+    <SourceRectangle X ="182" Y="594" Width ="24" Height="168"/>
+    <SourceRectangle X ="149" Y="594" Width ="24" Height="168"/>
+    <SourceRectangle X ="117" Y="594" Width ="23" Height="168"/>-->
+    <SourceRectangle X ="216" Y="628" Width ="16" Height="16"/>
+  </Flag>
+  
+  <GravityRightIdle NumberOfFrames ="1" Texture ="MarioRight">
+    <SourceRectangle X ="80" Y ="444" Width ="16" Height ="32"/>
+  </GravityRightIdle>
+
+  <GravityRightMoving NumberOfFrames ="3" Texture ="MarioRight">
+    <SourceRectangle X ="97" Y ="444" Width ="16" Height ="32"/>
+    <SourceRectangle X ="114" Y ="444" Width ="16" Height ="32"/>
+    <SourceRectangle X ="131" Y ="444" Width ="16" Height ="32"/>
+  </GravityRightMoving>
+
+  <GravityRightJump NumberOfFrames ="1" Texture ="MarioRight">
+    <SourceRectangle X ="165" Y ="444" Width ="16" Height ="32"/>
+  </GravityRightJump>
+
+  <GravityRightCrouch NumberOfFrames ="1" Texture ="MarioRight">
+    <SourceRectangle X ="182" Y ="444" Width ="16" Height ="32"/>
+  </GravityRightCrouch>
+
+  <GravityRightFlag NumberOfFrames ="2" Texture ="MarioRight">
+    <SourceRectangle X ="199" Y ="444" Width ="16" Height ="32"/>
+    <SourceRectangle X ="216" Y ="444" Width ="16" Height ="32"/>
+  </GravityRightFlag>
+
+  <GravityLeftIdle NumberOfFrames ="1" Texture ="MarioLeft">
+    <SourceRectangle X ="351" Y ="444" Width ="16" Height ="32"/>
+  </GravityLeftIdle>
+
+  <GravityLeftMoving NumberOfFrames ="3" Texture ="MarioLeft">
+    <SourceRectangle X ="334" Y ="444" Width ="16" Height ="32"/>
+    <SourceRectangle X ="317" Y ="444" Width ="16" Height ="32"/>
+    <SourceRectangle X ="300" Y ="444" Width ="16" Height ="32"/>
+  </GravityLeftMoving>
+
+  <GravityLeftJump NumberOfFrames ="1" Texture ="MarioLeft">
+    <SourceRectangle X ="266" Y ="444" Width ="16" Height ="32"/>
+  </GravityLeftJump>
+
+  <GravityLeftCrouch NumberOfFrames ="1" Texture ="MarioLeft">
+    <SourceRectangle X ="249" Y ="444" Width ="16" Height ="32"/>
+  </GravityLeftCrouch>
+
+  <GravityLeftFlag NumberOfFrames ="1" Texture ="MarioLeft">
+    <SourceRectangle X ="232" Y ="444" Width ="16" Height ="32"/>
+  </GravityLeftFlag>
+
+  <RosalinaRightIdle NumberOfFrames ="1" Texture ="MarioRight">
+    <SourceRectangle X ="80" Y ="633" Width ="16" Height ="32"/>
+  </RosalinaRightIdle>
+
+  <RosalinaRightMoving NumberOfFrames ="3" Texture ="MarioRight">
+    <SourceRectangle X ="97" Y ="633" Width ="16" Height ="32"/>
+    <SourceRectangle X ="114" Y ="633" Width ="16" Height ="32"/>
+    <SourceRectangle X ="131" Y ="633" Width ="16" Height ="32"/>
+  </RosalinaRightMoving>
+
+  <RosalinaRightJump NumberOfFrames ="1" Texture ="MarioRight">
+    <SourceRectangle X ="165" Y ="633" Width ="16" Height ="32"/>
+  </RosalinaRightJump>
+
+  <RosalinaRightCrouch NumberOfFrames ="1" Texture ="MarioRight">
+    <SourceRectangle X ="182" Y ="633" Width ="16" Height ="32"/>
+  </RosalinaRightCrouch>
+
+  <RosalinaRightFlag NumberOfFrames ="2" Texture ="MarioRight">
+    <SourceRectangle X ="199" Y ="633" Width ="16" Height ="32"/>
+    <SourceRectangle X ="216" Y ="633" Width ="16" Height ="32"/>
+  </RosalinaRightFlag>
+
+  <RosalinaLeftIdle NumberOfFrames ="1" Texture ="MarioLeft">
+    <SourceRectangle X ="351" Y ="633" Width ="16" Height ="32"/>
+  </RosalinaLeftIdle>
+
+  <RosalinaLeftMoving NumberOfFrames ="3" Texture ="MarioLeft">
+    <SourceRectangle X ="334" Y ="633" Width ="16" Height ="32"/>
+    <SourceRectangle X ="317" Y ="633" Width ="16" Height ="32"/>
+    <SourceRectangle X ="300" Y ="633" Width ="16" Height ="32"/>
+  </RosalinaLeftMoving>
+
+  <RosalinaLeftJump NumberOfFrames ="1" Texture ="MarioLeft">
+    <SourceRectangle X ="266" Y ="633" Width ="16" Height ="32"/>
+  </RosalinaLeftJump>
+
+  <RosalinaLeftCrouch NumberOfFrames ="1" Texture ="MarioLeft">
+    <SourceRectangle X ="249" Y ="633" Width ="16" Height ="32"/>
+  </RosalinaLeftCrouch>
+
+  <RosalinaLeftFlag NumberOfFrames ="1" Texture ="MarioLeft">
+    <SourceRectangle X ="232" Y ="633" Width ="16" Height ="32"/>
+  </RosalinaLeftFlag>
+
+  <GravityOrb NumberOfFrames ="1" Texture ="GravityOrb">
+    <SourceRectangle X ="0" Y ="0" Width ="16" Height ="16"/>
+  </GravityOrb>
+
+  <SuperCrown NumberOfFrames ="1" Texture ="SuperCrown">
+    <SourceRectangle X ="0" Y ="0" Width ="16" Height ="16"/>
+  </SuperCrown>
+  
+</SpriteInfo>
